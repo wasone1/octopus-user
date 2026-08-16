@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "archive": "https://github.com/wasone1/octopus-user/releases/download/fishing-1.0.0/OctopusFishing-1.0.0.zip",
+  "sha256": "21de48639fa6013707c89ee58ca98e8a9c71e7a067016d27ed23e28805e84736",
+  "exe": "OctopusFishing/OctopusFishing.exe"
+}
