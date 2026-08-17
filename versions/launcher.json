@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "archive": "https://github.com/wasone1/octopus-user/releases/download/launcher-1.0.5/Octopus-1.0.5.zip",
-  "sha256": "15460a878dfc8010513312a03b6383d0559f90359343b88b9cd2d6c67af51034",
+  "version": "1.0.6",
+  "archive": "https://github.com/wasone1/octopus-user/releases/download/launcher-1.0.6/Octopus-1.0.6.zip",
+  "sha256": "fa1fe831315af52e9483e8c09d1f7de8900abf96988f7914d26ce7bd28a47da8",
   "exe": "Octopus/Octopus.exe",
-  "signature": "+cKAOq1rKVPfFyEAZTw4Tbl4CmskB3buDRAnnIGIMM7oLFpZ5GRPco0+6g5gaoel9rdoqUI0hK/JGiieJ9Jvxg=="
+  "signature": "4mAqT8RH3Yc7GgPqMC72NxEiGeWVi5zol0rvoNmJ8Tx/HNx3i7FUmkXiruj8Mk5Eejr3nvN51VBdPi5kLjfn3g=="
 }
