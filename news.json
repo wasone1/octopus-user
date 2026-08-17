@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "fishing-2-1",
+      "date": "2026-08-13",
+      "badge": "NEW",
+      "title": {
+        "en": "Fishing Bot 2.1",
+        "ru": "Бот рыбалки 2.1",
+        "uk": "Бот риболовлі 2.1",
+        "es": "Bot de pesca 2.1",
+        "fr": "Bot de pêche 2.1",
+        "de": "Angel-Bot 2.1"
+      },
+      "body": {
+        "en": "Faster loot pickup and steadier casts when the server lags.",
+        "ru": "Быстрее подбирает добычу и ровнее забрасывает при лагах сервера.",
+        "uk": "Швидше підбирає здобич і рівніше закидає при лагах сервера.",
+        "es": "Recogida de botín más rápida y lanzamientos estables cuando el servidor va lento.",
+        "fr": "Ramassage du butin plus rapide et lancers stables quand le serveur rame.",
+        "de": "Schnelleres Aufsammeln und stabilere Würfe bei Server-Lags."
+      }
+    },
+    {
+      "id": "launcher-redesign",
+      "date": "2026-08-09",
+      "badge": "NONE",
+      "title": {
+        "en": "Launcher redesign",
+        "ru": "Новый дизайн лаунчера",
+        "uk": "Новий дизайн лаунчера",
+        "es": "Nuevo diseño del lanzador",
+        "fr": "Refonte du lanceur",
+        "de": "Neues Launcher-Design"
+      },
+      "body": {
+        "en": "New control panel, compact module list and subscription view.",
+        "ru": "Новый пульт, компактный список модулей и панель подписки.",
+        "uk": "Новий пульт, компактний список модулів і панель підписки.",
+        "es": "Nuevo panel de control, lista de módulos compacta y vista de suscripción.",
+        "fr": "Nouveau poste de pilotage, liste de modules compacte et vue de l'abonnement.",
+        "de": "Neues Steuerpult, kompakte Modulliste und Abo-Ansicht."
+      }
+    },
+    {
+      "id": "auction-beta",
+      "date": null,
+      "badge": "PLANNED",
+      "title": {
+        "en": "Auction Bot beta",
+        "ru": "Бета бота аукциона",
+        "uk": "Бета бота аукціону",
+        "es": "Beta del bot de subastas",
+        "fr": "Bêta du bot d'hôtel des ventes",
+        "de": "Auktions-Bot Beta"
+      },
+      "body": {
+        "en": "Closed testing opens to Standard subscribers first.",
+        "ru": "Закрытое тестирование сначала откроют подписчикам Стандарта.",
+        "uk": "Закрите тестування спершу відкриють передплатникам Стандарту.",
+        "es": "Las pruebas cerradas se abren primero a los suscriptores Estándar.",
+        "fr": "Les tests fermés s'ouvrent d'abord aux abonnés Standard.",
+        "de": "Der geschlossene Test startet zuerst für Standard-Abonnenten."
+      }
+    }
+  ]
+}
