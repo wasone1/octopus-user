@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "archive": "https://github.com/wasone1/octopus-user/releases/download/fishing-1.0.4/OctopusFishing-1.0.4.zip",
-  "sha256": "829e3e1f98582cb4ac18de8a3ce7af8820c093207c200d213f8031d867da5f72",
+  "version": "1.0.5",
+  "archive": "https://github.com/wasone1/octopus-user/releases/download/fishing-1.0.5/OctopusFishing-1.0.5.zip",
+  "sha256": "1a2af3ef05111c807ebe1ac33cbe064f0e09f2f1162e64625003d54bd95e91c6",
   "exe": "OctopusFishing/OctopusFishing.exe",
-  "signature": "YwjPB8SgLXIud0UEsiIsm12im12blXjCbR/JOTDI/C4RezG0ejwJESfO8GERRsW7eKAvDJlVkp7XCopXkKH0Hw=="
+  "signature": "2PXFD/En8xtTFiQhu0oFjDpoLLyxB79Qbrctu2bpvrgavD8YTo45Nt2rZ1gw4PK5YanBK+mN9CVlq9uuglcKfQ=="
 }
