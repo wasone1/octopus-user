@@ -1,3 +1,4 @@
 {
-  "api": "https://octopus-murex-three.vercel.app"
+  "api": "https://octopus-api.octopus-launch.workers.dev",
+  "mirrors": ["https://octopus-murex-three.vercel.app"]
 }
