@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "archive": "https://github.com/wasone1/octopus-user/releases/download/cs2-crosshairs-1.0.0/OctopusCrosshairs-1.0.0.zip",
+  "sha256": "d4b04513bfd246a8ef9bb285082b59908fa72d30317c91b792cc4af4bc24796c",
+  "exe": "OctopusCrosshairs/OctopusCrosshairs.exe",
+  "signature": "O01rC+CXNdXna6+kQiW0jZ52JtJLJN6jgmi2K39d5L1O1zRIIHrUJeu6O/eIMZcTHVSKvOKyEwLtwu3p4OClog=="
+}
